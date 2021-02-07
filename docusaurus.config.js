@@ -38,7 +38,7 @@ module.exports = {
           items: [
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/NbYfNvRfjH',
             },
           ],
         },
