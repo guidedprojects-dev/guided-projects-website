@@ -16,7 +16,7 @@ slug: /super-store/phase-1
 3. **As a User, I should see links for "Home", "Deals", and "Cart" in the navbar, along with a Company Logo**
 
 
-4. **As a User, navigating to "/", "/deals" and "/cart" via the menu should switch the contents of the page. Navigating should not reload the page.**
+4. **As a User, navigating to "/", "/deals" and "/cart" via the menu should switch the contents of the page. Clicking the Company logo should navigate the user to "/". Navigating should not reload the page.**
     - Use a router such as [React Router](https://reactrouter.com/) to implement page navigation. Each link "/", "/deals", and "/cart" should render a new page in the body of the application. The page doesn't have to have anything fancy on it at this point, it can just be text, but it should be different on each page.
 
 
